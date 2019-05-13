@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment1</string>
+    <string name="go_to_fragment_one" translatable="false">
+        Go To Fragment One</string>
+    <string name="enter_name_of_the_country">Enter Name of the Country</string>
+</resources>
